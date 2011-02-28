@@ -1,0 +1,6 @@
+The idea is to create a sort of swiss-army-knife library of string functions, regular expressions and perhaps NLP scripts. Anything esoteric but convenient is welcome.
+
+eg. 
+- different types of date format transformation
+- changing name formats eg. 'John Smith ---> Mr J Smith' or 'John Smith ---> Smith, John'
+- etc.
